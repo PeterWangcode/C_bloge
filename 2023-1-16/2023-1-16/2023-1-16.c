@@ -1,6 +1,6 @@
-//#define _CRT_SECURE_NO_WARNINGS 1
-//#include <stdio.h>
-//#include <string.h>
+#define _CRT_SECURE_NO_WARNINGS 1
+#include <stdio.h>
+#include <string.h>
 
 ///*数一下1~100的整数中有多少个9*/
 //// 9  19  29  39  49  59  69  79  89  99  // 个位是9

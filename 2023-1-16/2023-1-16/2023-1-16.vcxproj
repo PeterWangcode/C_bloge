@@ -127,8 +127,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="2023-1-16.cpp" />
-    <ClCompile Include="计算.cpp" />
+    <ClCompile Include="2023-1-16.c" />
+    <ClCompile Include="计算.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
