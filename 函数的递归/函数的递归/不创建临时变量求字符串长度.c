@@ -1,6 +1,6 @@
-#define _CRT_SECURE_NO_WARNINGS 1
-#include <stdio.h>
-#include <string.h>
+//#define _CRT_SECURE_NO_WARNINGS 1
+//#include <stdio.h>
+//#include <string.h>
 
 ///*编写函数,不创建临时变量,求字符串的长度。*/
 //

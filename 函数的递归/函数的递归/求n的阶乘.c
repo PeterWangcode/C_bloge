@@ -1,6 +1,6 @@
-#define _CRT_SECURE_NO_WARNINGS 1
-#include <stdio.h>
-#include <string.h>
+//#define _CRT_SECURE_NO_WARNINGS 1
+//#include <stdio.h>
+//#include <string.h>
 
 ///*求n的阶乘（不考虑溢出）*/
 //
@@ -21,3 +21,5 @@
 //
 //	return 0;
 //}
+
+

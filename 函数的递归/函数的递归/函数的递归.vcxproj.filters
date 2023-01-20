@@ -27,5 +27,14 @@
     <ClCompile Include="斐波那契数列.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="将数组元素逆序.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="输出输出数的和.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="n的k次方.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
