@@ -1,0 +1,6 @@
+﻿  game.c
+D:\C语言\C_bloge\game\game\game.h(1,1): warning C4828: 文件包含在偏移 0x24f 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+  test.c
+D:\C语言\C_bloge\game\game\game.h(1,1): warning C4828: 文件包含在偏移 0x24f 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+  正在生成代码...
+  game.vcxproj -> D:\C语言\C_bloge\game\x64\Debug\game.exe
