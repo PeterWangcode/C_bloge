@@ -1,0 +1,4 @@
+﻿  test.c
+D:\C语言\C_bloge\game2\game2\game.h(1,1): warning C4828: 文件包含在偏移 0x1d3 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+D:\C语言\C_bloge\game2\game2\test.c(23,19): warning C4048: “char (*)[9]”和“char [11][11]”数组的下标不同
+  game2.vcxproj -> D:\C语言\C_bloge\game2\x64\Debug\game2.exe
